@@ -13,3 +13,5 @@ New-Item -Path $PROFILE -Type File -Force
 oh-my-posh init pwsh --config 'jandedobbeleer' | Invoke-Expression
 kushal
 clean-detailed
+
+https://vsthemes.org/en/cursors/
